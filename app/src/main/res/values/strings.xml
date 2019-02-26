@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wplay Resultados</string>
+
+    <string name="url_home">https://s5.sir.sportradar.com/admiral/es/</string>
+    <string name="url_grupo">https://www.facebook.com/groups/grupodeapuestasdeportivas/</string>
+    <string name="url_inicio">https://s5.sir.sportradar.com/admiral/es/</string>
+    <string name="url_registro">https://wplay.co/registro/532401</string>
+    <string name="url_whatsapp">https://wa.me/573229372874</string>
+    <string name="url_telegran">https://t.me/FederaciondeAD</string>
+    <string name="url_juega">https://wplay.co/home/532401</string>
+    <string name="no_internet">No tiene conexión a internet Recargue la Pagina</string>
+</resources>
